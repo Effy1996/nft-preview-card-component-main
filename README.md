@@ -42,9 +42,9 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - Solution URL: [https://effy1996.github.io/nft-preview-card-component-main/
-](https://your-solution-url.com)
+](https://effy1996.github.io/nft-preview-card-component-main/)
 - Live Site URL: [(https://effy1996.github.io/nft-preview-card-component-main/
-)](https://your-live-site-url.com)
+)](https://effy1996.github.io/nft-preview-card-component-main/)
 
 ## My process
 
